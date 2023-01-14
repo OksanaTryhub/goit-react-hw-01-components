@@ -3,6 +3,7 @@
 :root {
   --border-color: #dfdfdf;
   --font-color: #868686;
+  --shadow-color: #91919161;
 }
 
 body {
@@ -33,4 +34,10 @@ li {
 
 section {
   margin-top: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
