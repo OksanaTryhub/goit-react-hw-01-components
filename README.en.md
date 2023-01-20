@@ -1,1 +1,1 @@
-React Homework module 1 - States. Events. Forms - Phonebook
+React Homework module 1 - Components and collections. Stylization
